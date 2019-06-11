@@ -51,7 +51,9 @@ img:hover {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  align-items: start}
+  align-items: start;
+  padding: 1em
+}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100%}
